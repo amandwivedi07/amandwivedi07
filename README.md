@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
-- 🔭 I’m currently working on [BadiDukkan](https://play.google.com/store/apps/details?id=com.getit.badidukkan&hl=en-IN)
+- 🔭 I’m currently working at [Wizdom](https://play.google.com/store/apps/details?id=com.learn.wizdom)
 
 - 🌱 I’m currently learning **Backend (Node Js,Express,Rest Api, Graph SQL) DSA**
 
