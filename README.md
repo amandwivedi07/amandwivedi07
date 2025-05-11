@@ -3,15 +3,7 @@
 
 - 🔭 I’m currently working at [Wizdom](https://play.google.com/store/apps/details?id=com.learn.wizdom)
 
-- 🌱 I’m currently learning **Backend (Node Js,Express,Rest Api, Graph SQL) DSA**
 
-- 👯 I’m looking to collaborate on **Many Project**
-
-- 🤝 I’m looking for help with **Ola Uber clone**
-
-- 💬 Ask me about **Flutter,react,react-native and backend**
-
-- 📫 How to reach me **amandwivedi0813@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
