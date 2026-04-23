@@ -17,7 +17,7 @@
 - 🔭 Currently working as a **Software Development Engineer**
 - 🌱 Learning **System Design, DSA, and Backend Development**
 - 💬 Ask me about **Flutter, Firebase, Dart, REST APIs, and Mobile App Development**
-- 📫 Reach me at **youremail@example.com**
+- 📫 Reach me at **amandwivedi0813@gmail.com**
 - ⚡ Fun fact: I love building products that solve real-world problems
 
 ---
@@ -92,23 +92,11 @@
 
 - 📱 Building scalable Flutter apps with clean architecture
 - ⚙️ Backend development with Node.js + TypeScript
-- 🧠 Preparing for SDE-2 interviews (DSA + System Design)
 - 🚀 Launching impactful, real-world products
 
----
 
-## 🏆 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/amandwivedi07/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amandwivedi07&repo=REPO_NAME_1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/amandwivedi07/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amandwivedi07&repo=REPO_NAME_2&theme=tokyonight" />
-  </a>
-</p>
 
----
 
 ## 💬 Quote I Believe In
 
