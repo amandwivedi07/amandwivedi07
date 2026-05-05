@@ -45,7 +45,7 @@ Node.js + MongoDB backend with modular architecture. JWT + RBAC auth. LLM-powere
 
 ## How I work
 
-- **AI-first by default.** Cursor as my editor, Claude for design pressure-testing before I write a line of code, GPT-4 for code generation, Perplexity for search-grounded queries.
+- **AI-first by default.** Cursor as my editor, Claude Code for code generation, Claude for design pressure-testing before I write a line of code, Google Stitch for UI design, Perplexity for search-grounded queries.
 - **Ship end-to-end.** I don't draw lines between frontend, backend, and AI — same person debugging the Flutter render glitch and the Python pipeline race condition at 2 AM.
 - **Optimize for real users.** Most of what I've shipped runs on mid-tier Android phones in India. If it doesn't feel good on a ₹15K Realme, I haven't shipped it yet.
 
