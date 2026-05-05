@@ -1,109 +1,82 @@
-<h1 align="center">Hi 👋, I'm Aman Dwivedi</h1>
-<h3 align="center">A Passionate Flutter Developer from India 🇮🇳</h3>
+<h1 align="center">Hi, I'm Aman Dwivedi</h1>
 
 <p align="center">
-  🚀 Flutter Developer &nbsp;•&nbsp; 📱 Cross-Platform App Specialist &nbsp;•&nbsp; 🔥 Firebase Enthusiast &nbsp;•&nbsp; 💻 Problem Solver
+  <strong>I ship consumer mobile apps that real users use.</strong><br/>
+  Currently building voice + LLM agents at <a href="https://onelink.to/5hekcb">Noah AI</a>.
+</p>
+
+<p align="center">
+  Software Development Engineer · Flutter + Node.js + AI<br/>
+  Previously: <a href="https://play.google.com/store/apps/details?id=com.learn.wizdom">Wizdom</a>, Badi Dukkan (sole engineer, 4-app food delivery ecosystem)
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amandwivedi07&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/amandwivedi07?label=Followers&style=social" alt="followers" />
+  <a href="https://linkedin.com/in/amandwivedi07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/amandwivedi07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:amandwivedi0813@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## What I've shipped
 
-- 🔭 Currently working as a **Software Development Engineer**
-- 🌱 Learning **System Design, DSA, and Backend Development**
-- 💬 Ask me about **Flutter, Firebase, Dart, REST APIs, and Mobile App Development**
-- 📫 Reach me at **amandwivedi0813@gmail.com**
-- ⚡ Fun fact: I love building products that solve real-world problems
+### 🧠 [Noah AI Therapist](https://app.heynoah.ai)
+*Real-time AI mental wellness companion · 50K+ installs · Live in 50+ countries · 4.7+ rating*
 
----
+End-to-end ownership: Flutter app with real-time conversational UI, Node.js (TypeScript) backend on AWS for APIs and session management, Python pipelines integrating LLMs and Speech-to-Text. Containerized with Docker. The hard part was tuning latency at every layer — STT chunking, LLM streaming, response delivery — so a conversation feels continuous, not turn-based.
 
-## 🌐 Connect With Me
+### 📚 [Wizdom](https://onelink.to/5hekcb)
+*15-min book / course / podcast summaries · 100K+ Play Store installs · 4.0+ rated · Also on iOS*
 
-<p align="center">
-  <a href="https://twitter.com/amandwivedi07" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/amandwivedi07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/amandwivedi07" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/amandwivedi07" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/users/amandwivedi07" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Flutter app with Firebase backend (Firestore, Auth, Cloud Functions). Audio playback, dark mode, content sharing. RevenueCat for subscriptions, CleverTap for analytics. Built a Flutter Web admin panel for non-technical content teams.
+
+### 🍱 Badi Dukkan
+*Food pre-ordering ecosystem · Sole engineer · 4 apps in production*
+
+Built the entire stack alone: Customer App, Vendor App, Rider App, and Admin Panel. Geolocation-based restaurant sorting, distance-based delivery fee calculation via Google Maps API, real-time order notifications via Firebase Cloud Functions, Razorpay payment integration, flexible coupon system for pre-orders and scheduled deliveries.
+
+### 🔍 discovr AI
+*Backend platform for brand visibility & competitive analytics*
+
+Node.js + MongoDB backend with modular architecture. JWT + RBAC auth. LLM-powered workflows (OpenAI, Perplexity, Google APIs) for automated topic, prompt, and blog generation. Analytics modules using MongoDB aggregation pipelines for sentiment analysis, perception tracking, and competitor benchmarking. Automated schedulers with idempotency guarantees.
 
 ---
 
-## 🚀 Tech Stack
+## How I work
 
-### 💙 Mobile Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,swift" />
-</p>
+- **AI-first by default.** Cursor as my editor, Claude for design pressure-testing before I write a line of code, GPT-4 for code generation, Perplexity for search-grounded queries.
+- **Ship end-to-end.** I don't draw lines between frontend, backend, and AI — same person debugging the Flutter render glitch and the Python pipeline race condition at 2 AM.
+- **Optimize for real users.** Most of what I've shipped runs on mid-tier Android phones in India. If it doesn't feel good on a ₹15K Realme, I haven't shipped it yet.
 
-### 🔥 Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb,mysql,sqlite,postgres" />
-</p>
+---
 
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,dart" />
-</p>
+## Stack
 
-### 🛠️ Tools & Platforms
+**Mobile:** Flutter, Dart  
+**Backend:** Node.js, Express, TypeScript  
+**AI / ML:** Python, OpenAI, Perplexity, Whisper / STT, LLM integration & prompt engineering  
+**Databases:** MongoDB (with aggregation pipelines), Firestore, PostgreSQL  
+**Cloud / Infra:** AWS (EC2, S3, Lambda), Firebase, Docker, Render, Vercel  
+**Tools I live in:** Cursor, Claude Code, GitHub Copilot, Postman, Git  
+**Other:** RevenueCat, CleverTap, Razorpay, Google Maps API, Mailgun
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,typescript,python,mongodb,firebase,aws,docker,git,github,vscode" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandwivedi07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandwivedi07&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandwivedi07&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amandwivedi07&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amandwivedi07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandwivedi07&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 Current Focus
-
-- 📱 Building scalable Flutter apps with clean architecture
-- ⚙️ Backend development with Node.js + TypeScript
-- 🚀 Launching impactful, real-world products
-
-
-
-
-
-## 💬 Quote I Believe In
-
-> _"Consistency beats talent when talent doesn't work hard."_
-
----
-
 <p align="center">
-  ⭐️ From <a href="https://github.com/amandwivedi07">Aman Dwivedi</a> — Thanks for visiting!
+  Open to roles in consumer AI, voice agents, and full-stack mobile.<br/>
+  <a href="mailto:amandwivedi0813@gmail.com">amandwivedi0813@gmail.com</a> · <a href="https://linkedin.com/in/amandwivedi07">LinkedIn</a>
 </p>
