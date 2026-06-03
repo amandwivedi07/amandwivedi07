@@ -1,82 +1,144 @@
-<h1 align="center">Hi, I'm Aman Dwivedi</h1>
+# Hi, I'm Aman Dwivedi 👋
 
-<p align="center">
-  <strong>I ship consumer mobile apps that real users use.</strong><br/>
-  Currently building voice + LLM agents at <a href="https://onelink.to/5hekcb">Noah AI</a>.
-</p>
+### Software Engineer · Flutter · Backend · AI Systems
 
-<p align="center">
-  Software Development Engineer · Flutter + Node.js + AI<br/>
-  Previously: <a href="https://play.google.com/store/apps/details?id=com.learn.wizdom">Wizdom</a>, Badi Dukkan (sole engineer, 4-app food delivery ecosystem)
-</p>
+I build consumer mobile apps, backend systems, and AI-powered products from 0→1.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amandwivedi07&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://linkedin.com/in/amandwivedi07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/amandwivedi07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:amandwivedi0813@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+- 2.5+ years of experience
+- 200K+ combined app installs
+- Experience across Flutter, Node.js, Python, AWS, and AI integrations
+- Currently working as a freelance/contract engineer with startups
 
 ---
 
-## What I've shipped
+## 🚀 What I Build
 
-### 🧠 [Noah AI Therapist](https://app.heynoah.ai)
-*Real-time AI mental wellness companion · 50K+ installs · Live in 50+ countries · 4.7+ rating*
-
-End-to-end ownership: Flutter app with real-time conversational UI, Node.js (TypeScript) backend on AWS for APIs and session management, Python pipelines integrating LLMs and Speech-to-Text. Containerized with Docker. The hard part was tuning latency at every layer — STT chunking, LLM streaming, response delivery — so a conversation feels continuous, not turn-based.
-
-### 📚 [Wizdom](https://onelink.to/5hekcb)
-*15-min book / course / podcast summaries · 100K+ Play Store installs · 4.0+ rated · Also on iOS*
-
-Flutter app with Firebase backend (Firestore, Auth, Cloud Functions). Audio playback, dark mode, content sharing. RevenueCat for subscriptions, CleverTap for analytics. Built a Flutter Web admin panel for non-technical content teams.
-
-### 🍱 Badi Dukkan
-*Food pre-ordering ecosystem · Sole engineer · 4 apps in production*
-
-Built the entire stack alone: Customer App, Vendor App, Rider App, and Admin Panel. Geolocation-based restaurant sorting, distance-based delivery fee calculation via Google Maps API, real-time order notifications via Firebase Cloud Functions, Razorpay payment integration, flexible coupon system for pre-orders and scheduled deliveries.
-
-### 🔍 discovr AI
-*Backend platform for brand visibility & competitive analytics*
-
-Node.js + MongoDB backend with modular architecture. JWT + RBAC auth. LLM-powered workflows (OpenAI, Perplexity, Google APIs) for automated topic, prompt, and blog generation. Analytics modules using MongoDB aggregation pipelines for sentiment analysis, perception tracking, and competitor benchmarking. Automated schedulers with idempotency guarantees.
+- Production-grade Flutter applications
+- Scalable backend systems with Node.js & TypeScript
+- AI-powered workflows using OpenAI APIs and RAG pipelines
+- Real-time voice and Speech-to-Text systems
+- Cloud infrastructure and deployments on AWS
+- End-to-end consumer products
 
 ---
 
-## How I work
+# 🛠 Featured Work
 
-- **AI-first by default.** Cursor as my editor, Claude Code for code generation, Claude for design pressure-testing before I write a line of code, Google Stitch for UI design, Perplexity for search-grounded queries.
-- **Ship end-to-end.** I don't draw lines between frontend, backend, and AI — same person debugging the Flutter render glitch and the Python pipeline race condition at 2 AM.
-- **Optimize for real users.** Most of what I've shipped runs on mid-tier Android phones in India. If it doesn't feel good on a ₹15K Realme, I haven't shipped it yet.
+## 🧠 Noah AI Therapist
+Real-time AI mental wellness companion used across 50+ countries.
+
+### Highlights
+- Built conversational Flutter app
+- Node.js backend on AWS
+- Python pipelines for LLM + STT integration
+- Real-time streaming optimization
+- Dockerized infrastructure
+
+**Stack:** Flutter · Node.js · TypeScript · Python · AWS · OpenAI
 
 ---
 
-## Stack
+## 📚 Wizdom
+Book, podcast, and course summary platform with 100K+ installs.
 
-**Mobile:** Flutter, Dart  
-**Backend:** Node.js, Express, TypeScript  
-**AI / ML:** Python, OpenAI, Perplexity, Whisper / STT, LLM integration & prompt engineering  
-**Databases:** MongoDB (with aggregation pipelines), Firestore, PostgreSQL  
-**Cloud / Infra:** AWS (EC2, S3, Lambda), Firebase, Docker, Render, Vercel  
-**Tools I live in:** Cursor, Claude Code, GitHub Copilot, Postman, Git  
-**Other:** RevenueCat, CleverTap, Razorpay, Google Maps API, Mailgun
+### Built
+- Flutter mobile application
+- Firebase backend architecture
+- Offline support and audio playback
+- RevenueCat subscription integration
+- Flutter Web admin panel
 
-<p align="center">
+**Stack:** Flutter · Firebase · Firestore · Cloud Functions
+
+---
+
+## 🍱 Badi Dukkan
+Complete food ordering ecosystem built as a sole engineer.
+
+### Apps
+- Customer App
+- Vendor App
+- Rider App
+- Admin Panel
+
+### Features
+- Real-time order system
+- Google Maps integrations
+- Razorpay payments
+- Push notifications
+
+**Stack:** Flutter · Firebase · Google Maps API
+
+---
+
+## 🔍 discovr AI
+AI-powered analytics and visibility platform.
+
+### Built
+- LLM-powered automation workflows
+- Modular backend architecture
+- MongoDB aggregation pipelines
+- RBAC authentication
+- Automated schedulers
+
+**Stack:** Node.js · MongoDB · OpenAI APIs
+
+---
+
+# ⚡ Tech Stack
+
+## Mobile
+- Flutter
+- Dart
+
+## Backend
+- Node.js
+- Express.js
+- TypeScript
+- Python
+
+## AI / ML
+- OpenAI APIs
+- RAG Systems
+- Whisper / STT
+- Prompt Engineering
+- AI Agent Workflows
+
+## Database
+- MongoDB
+- PostgreSQL
+- Firestore
+
+## Cloud / Infra
+- AWS
+- Docker
+- Firebase
+- Vercel
+- Render
+
+---
+
+# 🧠 How I Work
+
+- AI-first engineering workflow
+- Strong product ownership
+- Comfortable across frontend, backend, infra, and AI
+- Fast iteration with production mindset
+- Focused on building for real-world users and devices
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/amandwivedi07
+- Email: amandwivedi0813@gmail.com
+
+---
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,typescript,python,mongodb,firebase,aws,docker,git,github,vscode" />
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
+<p align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amandwivedi07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandwivedi07&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  Open to roles in consumer AI, voice agents, and full-stack mobile.<br/>
-  <a href="mailto:amandwivedi0813@gmail.com">amandwivedi0813@gmail.com</a> · <a href="https://linkedin.com/in/amandwivedi07">LinkedIn</a>
 </p>
